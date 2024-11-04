@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upedeiti.github.io/BDC/sitemap_index.txt
+Sitemap: https://upedeiti.github.io/FgW/sitemap_index.txt
+Sitemap: https://upedeiti.github.io/YvD/sitemap_index.txt
+Sitemap: https://upedeiti.github.io/qXd/sitemap_index.txt
